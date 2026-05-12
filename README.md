@@ -23,7 +23,7 @@ CS111-Data-Structures-Lab/
 ├── Lab_09/
 ├── Lab_10/
 ├── Lab_11/
-└── Lab_12_13_14/
+└── Lab_12/
 ```
 
 ---
